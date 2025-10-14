@@ -34,3 +34,6 @@ yarn-error.log*
 *.mov
 *.avi
 *.mkv
+
+# ignore pptx files
+*.pptx
